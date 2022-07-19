@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @77mateen
+- 👋 Hi, I’m Mateen
 - 👀 I’m interested in web d
 - 🌱 I’m currently learning web d
 - 💞️ I’m looking to collaborate on web d
-- 📫 How to reach me my email -> matininamdar4547@gmail.com
+- 📫 my email -> matininamdar4547@gmail.com
 
 <!---
 77mateen/77mateen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
