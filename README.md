@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mateen
-- 👀 I’m interested in web d
-- 🌱 I’m currently learning web d
-- 💞️ I’m looking to collaborate on web d
+- 👀 Interested in web d
+- 🌱 Currently learning web d
+- 💞️ Looking to collaborate on web d
 - 📫 my email -> matininamdar4547@gmail.com
 
 <!---
